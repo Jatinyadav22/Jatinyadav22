@@ -68,7 +68,7 @@ Experience:
   - AI & NLP Internship at Verto Bizserv
 
 Achievements:
-  - 1500+ DSA Problems Solved
+  - DSA Problems Solved
   - Design Thinking Impact Award Winner
 ```
 
